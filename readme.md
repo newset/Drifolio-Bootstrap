@@ -1,4 +1,4 @@
-<a href="http://creatrix.us/demo/drifolio/"><img src="http://shapebootstrap.net/wp-content/uploads/2014/11/Drifolio-Free-Responsive-Dribbble-Portfolio-Template-cover.jpg" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
+<a href="http://creatrix.us/demo/drifolio/"><img src="http://demo.evenfly.com/themes/drifolio/img/hero-img.png" alt="Drifolio – Free Responsive Dribbble Portfolio Template"></a>
 
 What & Why Drifolio?
 ---------------------------
